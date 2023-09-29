@@ -1,4 +1,4 @@
 # first
 this is my first repo
 <br>
-Auther- Satyjeet
+Auther- Satyjeet(btech student)
